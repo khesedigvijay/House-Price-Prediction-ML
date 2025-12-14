@@ -11,31 +11,31 @@ bathrooms, and location using Machine Learning regression techniques.
 - Features: HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude
 - Target: House Price
 
- Algorithm Used
+ ## Algorithm Used
 - XGBRegressor, XGBoost (Extreme Gradient Boosting) library.
 - Train-Test Split
 - Model Evaluation using R² Score, MAE
 
- Tools & Technologies
+ ## Tools & Technologies
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - Google Colab
 
- Results
+## Results
 - Achieved R² Score: 0.8338000331788725
 - Low prediction error on test data
 
-## 🚀 Future Improvements
+## Future Improvements
 - Try Random Forest
 - Deploy using Flask or Streamlit
 - Use real-time data
 
-How to Run
+## How to Run
 1. Clone the repository
 2. Install dependencies
 3. Run the notebook
 
-## 📌 Author
+ ## Author
 Digvijay Khese
